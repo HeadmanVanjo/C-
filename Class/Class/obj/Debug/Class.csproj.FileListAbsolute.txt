@@ -1,0 +1,6 @@
+C:\Users\vahts\Desktop\Git2\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+C:\Users\vahts\Desktop\Git2\Class\Class\bin\Debug\Class.exe.config
+C:\Users\vahts\Desktop\Git2\Class\Class\bin\Debug\Class.exe
+C:\Users\vahts\Desktop\Git2\Class\Class\bin\Debug\Class.pdb
+C:\Users\vahts\Desktop\Git2\Class\Class\obj\Debug\Class.exe
+C:\Users\vahts\Desktop\Git2\Class\Class\obj\Debug\Class.pdb
